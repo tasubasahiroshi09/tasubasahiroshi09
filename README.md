@@ -2,6 +2,9 @@
 
 ### Tasubasa Hiroshi - DevOps Engineer..
 
+Passionate about automation, security, and cloud infrastructure.
+
+
 <!--
 **tasubasahiroshi09/tasubasahiroshi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
